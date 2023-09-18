@@ -1,6 +1,6 @@
 # Document du cours Instrumentation
 
-Document principal : instrum-pdf.pdf.
+Document principal : Slides-Instrumentation.pdf.
 
 Jupyter notebooks dans le répertoire python. 
 
